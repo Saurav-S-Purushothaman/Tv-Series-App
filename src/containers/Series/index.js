@@ -24,8 +24,6 @@ class Series extends React.Component {
           isFetching:false
         });
       });
-       console.log(event);
-       console.log(event.target.value);
      }
  
    render() {
